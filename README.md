@@ -14,7 +14,7 @@ Initial Proposal
 Name of Project: Good Wood<br>
 Application Overview:<br>
 What problem does your application solve?<br> It allows arborists and woodworkers to connect. This will save both parties money. Arborists have to pay to dump logs, and woodworkers can end up paying an arm and a leg for a decent slab.<br>
-How will your application work?<br> Arborists will post the day of the job, the type of tree they are taking down, and an approximation of how many cords of wood they will have. A woodworker<br>
+How will your application work?<br> Arborists will post the day of the job, the type of tree they are taking down, and an approximation of how many cords of wood they will have. A woodworker will then be able to browse the available trees and claim one if they choose<br>
 Features?<br>
 arborists can post a wood drop.<br>
 the drop will display the type of wood, the location, an approximation of number of cords of wood, and the contact info needed to arrange a pickup.<br> 
