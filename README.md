@@ -11,19 +11,19 @@ Capstone Repo on Github:
 
 Initial Proposal
 
-Name of Project: Good Wood
-Application Overview:
-What problem does your application solve? It allows arborists and woodworkers to connect. This will save both parties money. Arborists have to pay to dump logs, and woodworkers can end up paying an arm and a leg for a decent slab.
-How will your application work? Arborists will post the day of the job, the type of tree they are taking down, and an approximation of how many cords of wood they will have. A woodworker 
-Features? 
-arborists can post a wood drop.
-the drop will display the type of wood, the location, an approximation of number of cords of wood, and the contact info needed to arrange a pickup. 
-Why do you want to build this application?
-As a woodworker, I often have trouble finding enough quality wood to stay busy.
-Who are the target users of this application? 
-Targeted users will be arborists and woodworkers
-Will you have multiple types of users? If so, what can each type of user do?
-I will have two types, Arborists and woodworkers. Arborists can post a job, and a woodworker can claim it. At
+Name of Project: Good Wood<br>
+Application Overview:<br>
+What problem does your application solve?<br> It allows arborists and woodworkers to connect. This will save both parties money. Arborists have to pay to dump logs, and woodworkers can end up paying an arm and a leg for a decent slab.<br>
+How will your application work?<br> Arborists will post the day of the job, the type of tree they are taking down, and an approximation of how many cords of wood they will have. A woodworker<br>
+Features?<br>
+arborists can post a wood drop.<br>
+the drop will display the type of wood, the location, an approximation of number of cords of wood, and the contact info needed to arrange a pickup.<br> 
+Why do you want to build this application?<br>
+As a woodworker, I often have trouble finding enough quality wood to stay busy.<br>
+Who are the target users of this application?<br>
+Targeted users will be arborists and woodworkers<br>
+Will you have multiple types of users? If so, what can each type of user do?<br>
+I will have two types, Arborists and woodworkers. Arborists can post a job, and a woodworker can claim it. 
 
 
 (The sections below should be completed only after you get the 👍 on your initial proposal)
